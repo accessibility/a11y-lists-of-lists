@@ -1,4 +1,4 @@
-# Lists of lists of accessibility related issues
+# Lists of lists of accessibility related lists
 
 - Accessibility & Web Design (Laura_Carlson) - http://www.d.umn.edu/itss/support/Training/Online/webdesign/accessibility.html
 - Accessibility courses/education (Mike Gifford) - https://github.com/mgifford/a11y-courses/
