@@ -20,10 +20,12 @@
 - UMN: Books - http://www.d.umn.edu/itss/training/online/webdesign/books.html
 - UMN: IT Accessibility Risk Statements and Evidence by Topic - http://www.d.umn.edu/~lcarlson/atteam/reports/litigation/risks.html
 - UMN: Higher Ed Accessibility Lawsuits, Complaints, and Settlements - http://www.d.umn.edu/~lcarlson/atteam/lawsuits.html
-- WebAxe: Custom Select Dropdowns (Dennis Lembrée) - http://www.webaxe.org/accessible-custom-select-dropdowns/
-- WebAxe: Web Accessibility Books - http://www.webaxe.org/web-accessibility-books/
-- WebAxe: Color Contrast Resources - http://www.webaxe.org/color-contrast-tools/
-- WebAxe: AccessMeetups - https://twitter.com/webaxe/lists/accessmeetups/members
+- Web Axe: Custom Select Dropdowns - http://www.webaxe.org/accessible-custom-select-dropdowns/
+- Web Axe: Web Accessibility Books - http://www.webaxe.org/web-accessibility-books/
+- Web Axe: Color Contrast Resources - http://www.webaxe.org/color-contrast-tools/
+- Web Axe: AccessMeetups - https://twitter.com/webaxe/lists/accessmeetups/members
+- Web Axe: Digital Accessibility Newsletters - http://www.webaxe.org/digital-accessibility-newsletters/
+- Web Axe: Accessible Date Pickers - http://www.webaxe.org/accessible-date-pickers/
 - Courses/education (Mike Gifford) - https://github.com/mgifford/a11y-courses/
 - Accessibility and Inclusive Design Meetup Groups (Deborah Edwards-Onoro) - https://www.lireo.com/accessibility-inclusive-design-in-person-groups/
 - Top Twitter People to Follow in Web Accessibility (Joe Watkins) - https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility
