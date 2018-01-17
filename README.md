@@ -1,8 +1,25 @@
 # Accessibility Lists of lists
 
-- Accessibility & Web Design (Laura_Carlson) - http://www.d.umn.edu/itss/support/Training/Online/webdesign/accessibility.html
-- Accessibility courses/education (Mike Gifford) - https://github.com/mgifford/a11y-courses/
-- Accessible Custom Select Dropdowns (Dennis Lembrée) - http://www.webaxe.org/accessible-custom-select-dropdowns/
+- UMN: Accessibility & Web Design (Laura_Carlson) - http://www.d.umn.edu/itss/training/online/webdesign/accessibility.html
+- UMN: Drupal - http://www.d.umn.edu/itss/training/online/webdesign/drupal.html
+- UMN: SVG & XML - http://www.d.umn.edu/itss/training/online/webdesign/xml.html#svg
+- UMN: Typography - http://www.d.umn.edu/itss/training/online/webdesign/type.html
+- UMN: Standards, Guidelines, & Patterns - http://www.d.umn.edu/itss/training/online/webdesign/standards.html
+- UMN: Interviews - http://www.d.umn.edu/itss/training/online/webdesign/misc.html
+- UMN: Evaluation and Testing - http://www.d.umn.edu/itss/training/online/webdesign/testing.html
+- UMN: CSS - http://www.d.umn.edu/itss/training/online/webdesign/css.html
+- UMN: Associations - http://www.d.umn.edu/itss/training/online/webdesign/associations.html
+- UMN: Usability - http://www.d.umn.edu/itss/training/online/webdesign/usability.html
+- UMN: Tools - http://www.d.umn.edu/itss/training/online/webdesign/tools.html
+- UMN: Navigation & Labelling - http://www.d.umn.edu/itss/training/online/webdesign/navigation.html
+- UMN: Sites & Blogs - http://www.d.umn.edu/itss/training/online/webdesign/sites.html
+- UMN: JavaScript - http://www.d.umn.edu/itss/training/online/webdesign/javascript.html
+- UMN: HTML5 - http://www.d.umn.edu/itss/training/online/webdesign/html.html
+- UMN: Events & Conferences - http://www.d.umn.edu/itss/training/online/webdesign/events.html
+- UMN: Color - http://www.d.umn.edu/itss/training/online/webdesign/color.html
+- UMN: Books - http://www.d.umn.edu/itss/training/online/webdesign/books.html
+- Courses/education (Mike Gifford) - https://github.com/mgifford/a11y-courses/
+- Custom Select Dropdowns (Dennis Lembrée) - http://www.webaxe.org/accessible-custom-select-dropdowns/
 - Web Accessibility Books (Dennis Lembrée) - http://www.webaxe.org/web-accessibility-books/
 - Color Contrast Resources (Dennis Lembrée) - http://www.webaxe.org/color-contrast-tools/
 - Accessibility and Inclusive Design Meetup Groups (Deborah Edwards-Onoro) - https://www.lireo.com/accessibility-inclusive-design-in-person-groups/
