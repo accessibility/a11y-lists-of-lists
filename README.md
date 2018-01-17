@@ -14,7 +14,7 @@
 - UMN: Sites & **Blogs** - http://www.d.umn.edu/itss/training/online/webdesign/sites.html
 - UMN: **JavaScript** - http://www.d.umn.edu/itss/training/online/webdesign/javascript.html
 - UMN: **HTML5** - http://www.d.umn.edu/itss/training/online/webdesign/html.html
-- UMN: E**vents** & Conferences - http://www.d.umn.edu/itss/training/online/webdesign/events.html
+- UMN: **Events** & Conferences - http://www.d.umn.edu/itss/training/online/webdesign/events.html
 - UMN: **Books** - http://www.d.umn.edu/itss/training/online/webdesign/books.html
 - UMN: IT Accessibility **Risk Statements** and Evidence by Topic - http://www.d.umn.edu/~lcarlson/atteam/reports/litigation/risks.html
 - UMN: Higher Ed Accessibility **Lawsuits**, Complaints, and Settlements - http://www.d.umn.edu/~lcarlson/atteam/lawsuits.html
