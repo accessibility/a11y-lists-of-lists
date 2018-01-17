@@ -18,6 +18,8 @@
 - UMN: Events & Conferences - http://www.d.umn.edu/itss/training/online/webdesign/events.html
 - UMN: Color - http://www.d.umn.edu/itss/training/online/webdesign/color.html
 - UMN: Books - http://www.d.umn.edu/itss/training/online/webdesign/books.html
+- UMN: IT Accessibility Risk Statements and Evidence by Topic - http://www.d.umn.edu/~lcarlson/atteam/reports/litigation/risks.html
+- UMN: Higher Ed Accessibility Lawsuits, Complaints, and Settlements - http://www.d.umn.edu/~lcarlson/atteam/lawsuits.html
 - WebAxe: Custom Select Dropdowns (Dennis Lembrée) - http://www.webaxe.org/accessible-custom-select-dropdowns/
 - WebAxe: Web Accessibility Books - http://www.webaxe.org/web-accessibility-books/
 - WebAxe: Color Contrast Resources - http://www.webaxe.org/color-contrast-tools/
