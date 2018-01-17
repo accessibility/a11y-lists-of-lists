@@ -18,9 +18,9 @@
 - UMN: Events & Conferences - http://www.d.umn.edu/itss/training/online/webdesign/events.html
 - UMN: Color - http://www.d.umn.edu/itss/training/online/webdesign/color.html
 - UMN: Books - http://www.d.umn.edu/itss/training/online/webdesign/books.html
+- WebAxe: Custom Select Dropdowns (Dennis Lembrée) - http://www.webaxe.org/accessible-custom-select-dropdowns/
+- WebAxe: Web Accessibility Books (Dennis Lembrée) - http://www.webaxe.org/web-accessibility-books/
+- WebAxe: Color Contrast Resources (Dennis Lembrée) - http://www.webaxe.org/color-contrast-tools/
 - Courses/education (Mike Gifford) - https://github.com/mgifford/a11y-courses/
-- Custom Select Dropdowns (Dennis Lembrée) - http://www.webaxe.org/accessible-custom-select-dropdowns/
-- Web Accessibility Books (Dennis Lembrée) - http://www.webaxe.org/web-accessibility-books/
-- Color Contrast Resources (Dennis Lembrée) - http://www.webaxe.org/color-contrast-tools/
 - Accessibility and Inclusive Design Meetup Groups (Deborah Edwards-Onoro) - https://www.lireo.com/accessibility-inclusive-design-in-person-groups/
 - Top Twitter People to Follow in Web Accessibility (Joe Watkins) - https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility
