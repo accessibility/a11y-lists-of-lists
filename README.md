@@ -44,3 +44,4 @@
 - UMN: Sites & Blogs - http://www.d.umn.edu/itss/training/online/webdesign/sites.html
 - Web Axe: Digital Accessibility Newsletters - http://www.webaxe.org/digital-accessibility-newsletters/
 - Web Axe: Web Accessibility Books - http://www.webaxe.org/web-accessibility-books/
+- Scott O'Hara Accessibility Interview Questions - https://github.com/scottaohara/accessibility_interview_questions
