@@ -45,3 +45,4 @@
 - Web Axe: Digital Accessibility Newsletters - http://www.webaxe.org/digital-accessibility-newsletters/
 - Web Axe: Web Accessibility Books - http://www.webaxe.org/web-accessibility-books/
 - Scott O'Hara Accessibility Interview Questions - https://github.com/scottaohara/accessibility_interview_questions
+- Atalan's Digital accessibility resources (France) - https://github.com/atalan/a11y-resources/blob/master/list-of-a11y-resources.md
