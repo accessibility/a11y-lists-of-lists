@@ -46,3 +46,4 @@
 - Web Axe: Web Accessibility Books - http://www.webaxe.org/web-accessibility-books/
 - Scott O'Hara Accessibility Interview Questions - https://github.com/scottaohara/accessibility_interview_questions
 - Atalan's Digital accessibility resources (France) - https://github.com/atalan/a11y-resources/blob/master/list-of-a11y-resources.md
+- Digital Accessibility Bingo - https://github.com/mgifford/Digital-Accessibility-Bingo
