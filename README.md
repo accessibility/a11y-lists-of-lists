@@ -47,3 +47,4 @@
 - Scott O'Hara Accessibility Interview Questions - https://github.com/scottaohara/accessibility_interview_questions
 - Atalan's Digital accessibility resources (France) - https://github.com/atalan/a11y-resources/blob/master/list-of-a11y-resources.md
 - Digital Accessibility Bingo (otherwise known as the List of Excuses) - https://github.com/mgifford/Digital-Accessibility-Bingo
+- Procurement & Contracting Guidelines - https://github.com/mgifford/a11y-contracting/
