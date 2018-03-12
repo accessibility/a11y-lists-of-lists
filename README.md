@@ -37,6 +37,9 @@
 - UMN: Events & Conferences - http://www.d.umn.edu/itss/training/online/webdesign/events.html
 - Web Axe: AccessMeetups - https://twitter.com/webaxe/lists/accessmeetups/members
 
+## Government Resources
+- French Government Resources - Ressources RGAA - Collated by Access42 - http://gta2017.access42.net/2/ressources/
+
 ## Misc Resources
 - Top Twitter People to Follow in Web Accessibility (Joe Watkins) - https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility
 - UMN: Books - http://www.d.umn.edu/itss/training/online/webdesign/books.html
