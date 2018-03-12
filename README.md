@@ -52,3 +52,4 @@
 - Atalan's Digital accessibility resources (France) - https://github.com/atalan/a11y-resources/blob/master/list-of-a11y-resources.md
 - Digital Accessibility Bingo (otherwise known as the List of Excuses) - https://github.com/mgifford/Digital-Accessibility-Bingo
 - Procurement & Contracting Guidelines - https://github.com/mgifford/a11y-contracting/
+- Accessibility Info Pages List Lainey Feingold's Legal Firm http://www.lflegal.com/2013/02/access-info-pages/
