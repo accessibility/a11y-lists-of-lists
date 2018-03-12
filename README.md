@@ -38,8 +38,9 @@
 - Web Axe: AccessMeetups - https://twitter.com/webaxe/lists/accessmeetups/members
 
 ## Government Resources
-- French Government Resources - Ressources RGAA - Collated by Access42 - http://gta2017.access42.net/2/ressources/
 - 18F's Tools List - https://accessibility.18f.gov/tools/
+- French Government Resources - Ressources RGAA - Collated by Access42 - http://gta2017.access42.net/2/ressources/
+- List Government Resources & Good Links from Lainey Feingold http://www.lflegal.com/2013/05/gaad-legal/
 
 ## Misc Resources
 - Top Twitter People to Follow in Web Accessibility (Joe Watkins) - https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility
@@ -52,4 +53,4 @@
 - Atalan's Digital accessibility resources (France) - https://github.com/atalan/a11y-resources/blob/master/list-of-a11y-resources.md
 - Digital Accessibility Bingo (otherwise known as the List of Excuses) - https://github.com/mgifford/Digital-Accessibility-Bingo
 - Procurement & Contracting Guidelines - https://github.com/mgifford/a11y-contracting/
-- Accessibility Info Pages List Lainey Feingold's Legal Firm http://www.lflegal.com/2013/02/access-info-pages/
+- Accessibility Info Pages List from Lainey Feingold http://www.lflegal.com/2013/02/access-info-pages/
