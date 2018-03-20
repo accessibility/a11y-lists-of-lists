@@ -26,6 +26,7 @@
 - UMN: Standards, Guidelines, & Patterns - http://www.d.umn.edu/itss/training/online/webdesign/standards.html
 - UMN: SVG & XML - http://www.d.umn.edu/itss/training/online/webdesign/xml.html#svg
 - Web Axe: Color Contrast Resources - http://www.webaxe.org/color-contrast-tools/
+- Laura Kalbag: Animation https://laurakalbag.com/bookmarked-on-animation/
 
 ## Courses and Educational Resources
 - Courses & education (Mike Gifford) - https://github.com/mgifford/a11y-courses/
