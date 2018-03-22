@@ -37,6 +37,7 @@
 - UMN: Associations - http://www.d.umn.edu/itss/training/online/webdesign/associations.html
 - UMN: Events & Conferences - http://www.d.umn.edu/itss/training/online/webdesign/events.html
 - Web Axe: AccessMeetups - https://twitter.com/webaxe/lists/accessmeetups/members
+- Accessibility Meetup Survey - http://www.dennisdeacon.com/a11y-meetup-survey-2018/
 
 ## Government Resources
 - 18F's Tools List - https://accessibility.18f.gov/tools/
