@@ -1,4 +1,4 @@
-# Accessibility Lists of lists
+# Accessibility Lists of Lists
 
 ## General Resources
 - A11Y Project Resources List - https://a11yproject.com/resources
