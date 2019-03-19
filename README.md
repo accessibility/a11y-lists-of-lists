@@ -58,3 +58,4 @@
 - Procurement & Contracting Guidelines - https://github.com/mgifford/a11y-contracting/
 - Accessibility Info Pages List from Lainey Feingold - http://www.lflegal.com/2013/02/access-info-pages/
 - Accessibility Culture from Lainey Feingold - http://www.lflegal.com/2018/05/accessibility-culture/
+- Events to submit talks about accessibility - https://github.com/accessibility/events-to-talk-about-accessibility/
