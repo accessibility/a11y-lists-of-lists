@@ -4,6 +4,7 @@
 - A11Y Project Resources List - https://a11yproject.com/resources
 - A11Y Style Guide Resources List - http://a11y-style-guide.com/style-guide/section-resources.html
 - Cstrobbe Resources List - http://cstrobbe.github.io/AccessibilityResources/
+- reddit List - https://www.reddit.com/r/accessibility/wiki/meta/accessibility_resources
 
 ## Development and Testing Resources
 - UMN: CSS - http://www.d.umn.edu/itss/training/online/webdesign/css.html
