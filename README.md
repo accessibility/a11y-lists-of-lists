@@ -34,7 +34,8 @@
 - Laura Kalbag: Animation https://laurakalbag.com/bookmarked-on-animation/
 
 ## Courses and Educational Resources
-- Courses & education (Mike Gifford) - https://github.com/mgifford/a11y-courses/
+- [Courses & Education](https://github.com/accessibility/a11y-courses)
+- [Podcasts, Videos & Twitch Streams (CivicActions)](https://civicactions.github.io/accessibility/handbook/resources)
 
 ## Meet-up, Groups and Event Resources
 - A11Y Project Events - https://a11yproject.com/events.html
