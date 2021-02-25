@@ -20,7 +20,7 @@
 - [ICT Testing 201 Workshop Testing tools](https://www.accessibilityoz.com/ict-testing/)
 - [Donna Bungard's An Incomplete List of Tools for Accessibility](https://docs.google.com/spreadsheets/d/1WEujpG4RNEGTcBHOwvVYsixAZPnhkcnJujVoLdMZM4o/edit?disco=AAAALK-X_iI&usp=comment_email_discussion&usp_dm=false&ts=600ee792)
 - [W3C's Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
-- [CivicActions Accessibility Lists](https://civicactions.github.io/accessibility/open)
+- [CivicActions Accessibility Lists](https://accessibility.civicactions.com/guide)
 
 ## Design Resources
 - UMN: Accessibility & Web Design (Laura Carlson) - http://www.d.umn.edu/itss/training/online/webdesign/accessibility.html
@@ -35,7 +35,7 @@
 
 ## Courses and Educational Resources
 - [Courses & Education](https://github.com/accessibility/a11y-courses)
-- [Podcasts, Videos & Twitch Streams (CivicActions)](https://civicactions.github.io/accessibility/handbook/resources)
+- [Podcasts, Videos & Twitch Streams (CivicActions)](https://accessibility.civicactions.com/guide/resources)
 
 ## Meet-up, Groups and Event Resources
 - A11Y Project Events - https://a11yproject.com/events.html
