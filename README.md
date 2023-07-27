@@ -3,7 +3,7 @@
 ## General Resources
 - [A11Y Project Resources](https://a11yproject.com/resources)
 - [A11Y Style Guide Resources](http://a11y-style-guide.com/style-guide/section-resources.html)
-- [Christophe Strobbe's Accessibility Resources](http://cstrobbe.github.io/AccessibilityResources/)
+- [Christophe Strobbe's Accessibility Resources](https://cstrobbe.gitlab.io/AccessibilityResources/)
 - [reddit List](https://www.reddit.com/r/accessibility/wiki/meta/accessibility_resources)
 
 ## Development and Testing Resources
