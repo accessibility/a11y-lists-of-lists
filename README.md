@@ -49,7 +49,7 @@
 ## Government Resources
 - [18F's Tools List](https://accessibility.18f.gov/tools/)
 - [French Government Resources - Ressources RGAA - Collated by Access42](http://gta2017.access42.net/2/ressources/)
-- [List Government Resources & Good Links from Lainey Feingold](http://www.lflegal.com/2013/05/gaad-legal/)
+- [List Government Resources & Good Links from Lainey Feingold](https://www.lflegal.com/resources/)
 
 ## Misc Resources
 - [Top Twitter People to Follow in Web Accessibility (Joe Watkins)](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility)
